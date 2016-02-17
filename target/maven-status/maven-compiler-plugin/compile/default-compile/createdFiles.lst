@@ -1,0 +1,9 @@
+notation\Checkin.class
+notation\User.class
+main\InfoWritable.class
+notation\Business.class
+main\ETLMapper.class
+main\ETLReducer.class
+main\YelpETL.class
+notation\Review.class
+get_info\GetInfo.class
